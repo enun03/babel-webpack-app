@@ -1,0 +1,11 @@
+{
+  "name": "babel-webpack-app",
+  "version": "1.0.0",
+  "description": "A babel-webpack sandbox",
+  "main": "app.js",
+  "repository": "",
+  "author": "Eli Nunez <rblmusic@gmail.com>",
+  "dependencies": {
+    "webpack" : "~3.10.0"
+  }
+}
