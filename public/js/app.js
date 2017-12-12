@@ -1,4 +1,4 @@
-const people = require('./public/js/people.js');
+const people = require('./people.js');
 
 const output = document.querySelector('#app');
 
